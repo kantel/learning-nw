@@ -1,0 +1,14 @@
+{
+  "name": "myapp.gui",
+  "version": "0.0.1",
+  "description": "Ein GUI mit dem Node Webkit",
+  "main": "index.html",
+  "window": {
+      "toolbar": false
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jörg Kantel",
+  "license": "MIT"
+}
