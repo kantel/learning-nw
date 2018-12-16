@@ -1,2 +1,3 @@
 # learning-nw
-Desktop-Applikationen mit JavaScript und P5.js
+
+Desktop-Applikationen mit JavaScript, NW.js und P5.js

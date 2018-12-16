@@ -4,11 +4,14 @@
   "description": "Meine ersten Versuche mit dem Node Webkit",
   "main": "index.html",
   "window": {
-      "toolbar": false
+    "toolbar": false
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Jörg Kantel",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "nwjs-builder-phoenix": "^1.14.8"
+  }
 }
